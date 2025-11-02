@@ -33,4 +33,8 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/onemanAnurag/Leet-Code-Question/tree/master/0240-search-a-2d-matrix-ii) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/onemanAnurag/Leet-Code-Question/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
