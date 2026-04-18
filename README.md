@@ -49,4 +49,8 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/onemanAnurag/Leet-Code-Question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/onemanAnurag/Leet-Code-Question/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/onemanAnurag/Leet-Code-Question/tree/master/0908-middle-of-the-linked-list) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/onemanAnurag/Leet-Code-Question/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
